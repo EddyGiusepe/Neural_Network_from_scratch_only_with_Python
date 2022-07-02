@@ -1,5 +1,9 @@
 # Neural_Network_from_scratch_only_with_Python
 
-![](https://i0.wp.com/neuralnetworksanddeeplearning.com/images/tikz12.png)
+
 
 ![](https://miro.medium.com/max/1400/1*8jI3wB41kYxP-Wo5rO_Yvg.gif)
+
+
+
+Thanks God!
